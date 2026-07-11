@@ -1,0 +1,11 @@
+line gets one line at a time.
+
+So the pattern is always the same:
+
+String → character by character
+List → element by element
+Tuple → item by item
+Dictionary → key by key (by default)
+File → line by line
+
+Since you haven't learned that a file object is iterable yet, using readline() is the right choice. Once you study iterators and iteration in more depth, for line in file will make complete sense.
