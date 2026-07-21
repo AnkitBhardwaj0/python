@@ -1,0 +1,11 @@
+
+Python is one of the most popular programming languages.
+Practice every day to improve your coding skills.
+Reading files is an important part of Python programming.
+Lists, dictionaries, and tuples are basic data structures.
+Exception handling makes programs more reliable.
+JSON files are human-readable and easy to share.
+Pickle stores Python objects in binary format.
+Functions help organize code into reusable blocks.
+Debugging is an essential skill for every programmer.
+Consistency is more important than studying for long hours.
